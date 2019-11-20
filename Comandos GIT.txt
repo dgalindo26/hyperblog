@@ -1,4 +1,4 @@
-$git init ------- Inicia un repositorio en la carpeta en donde estamos en la línea de comando
+$git init ------- Inicia un repositorio en la carpeta en donde estamos en la lï¿½nea de comando
 $git add biografia.txt-------- Agrega el archivo biografia.txt al repositorio
 $git add . -------- Agrega todos los archivos contenidos en la carpeta al repositorio
 $git commit -m "Cambios V1" --------- Deja en STAGE el archivo y agrega comentario (-m)
@@ -6,3 +6,4 @@ $git status -------- Muestra el estado de los archivos
 $git show
 $git log biografia.txt ------- Muestra todo el historial del archivo
 $git push ------- Enviar el archivo a repositorio remoto
+este es un cambio para la segunda versiÃ³n
