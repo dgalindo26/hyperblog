@@ -6,5 +6,4 @@ $git status -------- Muestra el estado de los archivos
 $git show
 $git log biografia.txt ------- Muestra todo el historial del archivo
 $git push ------- Enviar el archivo a repositorio remoto
-este es un cambio para la segunda versión
-otro cambio para comprobar
+$git reset 
