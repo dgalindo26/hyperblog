@@ -14,3 +14,4 @@ $git reset HEAD: Este es el comando para sacar archivos del área de Staging. No
 $git pull
 
 master 1
+Experimento 1
